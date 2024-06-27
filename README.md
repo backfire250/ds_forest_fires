@@ -43,7 +43,7 @@ I wanted to standardize our data so that the feature columns would have a mean o
 I looked at the correlation between my continuous variables and my target variable. Below are a couple highlights from my EDA, as well as a map of the residuals after my model evaluation was complete.
 
 ![](https://github.com/backfire250/Ernie_Portfolio/blob/main/images/fires%20eda.png)
-![](https://github.com/backfire250/Ernie_Portfolio/blob/main/images/fires%20correlation.png))
+![](https://github.com/backfire250/Ernie_Portfolio/blob/main/images/fires_correlation.png))
 ![](https://github.com/backfire250/Ernie_Portfolio/blob/main/images/fires%20residuals.png)
 
 ## Feature Selection
