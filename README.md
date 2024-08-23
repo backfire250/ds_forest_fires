@@ -67,8 +67,5 @@ The forward/backward linear regression model far outperformed the other approach
 *    **Ridge Regression** : MSE = 2.28
 *    **Spline**: MSE = 7.78
 
-## Model Evaluation
-In this step, I built a Flask API endpoint that was hosted on a local webserver by following along with the TDS tutorial in the resource section above. The API endpoint takes in a request with a list of values from a job posting and returns an estimated salary.
-
 ## Conclusion
 With this project, we demonstrated the use of many different techniques in our machine learning library and used these techniques to build models that could accurately predict the outcomes based on our provided data. We used imputation to fill in missing data from our data set, looked at outliers and examined the correlation between our feature columns and our target column. We also built several regularized and non-linear models and used k-fold cross validation to evaluate our models.
