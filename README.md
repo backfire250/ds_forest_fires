@@ -52,7 +52,7 @@ After cleaning our dataset and doing some initial data analysis, we could move o
 ## Model Building
 I split the data into train and test sets with a test size of 20%.
 
-I tried three different models and evaluated them using Mean Squared Error (the average variance between actual values and projected values in the dataset).
+I tried different models and evaluated them using Mean Squared Error (the average variance between actual values and projected values in the dataset).
 
 I tried four different models:
 *    **Forward/Backward Linear Regression** - Used as the baseline for my model.
